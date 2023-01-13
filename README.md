@@ -12,8 +12,8 @@ La versión final del trabajo puede visualizarse en: <https://perezp44.github.io
 
 <!-- Abajo podéis escribir lo que queráis, igual un resumen del trabajo, o ..., o ... pero al menos, tenéis que poner el título del trabajo y el nombre de los componentes del equipo-->
 
-El autor del trabajo soy yo, Sandra March (arazola@alumni.uv.es), .....
+El autor del trabajo soy yo, Sandra March (arazola@alumni.uv.es), 
 
-El título del trabajo es .....  En el trabajo hago  .... blah-blah ...
+El título del trabajo es "Trabajar para vivir"
 
 
